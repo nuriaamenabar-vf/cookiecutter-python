@@ -1,4 +1,6 @@
 {{cookiecutter.project_name}}
+
+this is a test.
 _________________
 
 [![PyPI version](https://badge.fury.io/py/{{cookiecutter.project_name}}.svg)](http://badge.fury.io/py/{{cookiecutter.project_name}})
